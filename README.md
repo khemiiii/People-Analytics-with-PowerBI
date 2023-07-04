@@ -1,1 +1,1 @@
-# Examined the HR data of a manufacturing company to identify gender related issues across it’s three regions, in order to support the company in actualizing it’s ambition of scaling to other regions and even overseas.
+# Examined the People data of a manufacturing company to identify gender related issues across it’s three regions, in order to support the company in actualizing it’s ambition of scaling to other regions and even overseas.
