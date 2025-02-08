@@ -1,1 +1,1 @@
-# Examined the People data of a manufacturing company to identify gender related issues across it’s three regions, in order to support the company in actualizing it’s ambition of scaling to other regions and even overseas.
+# Analyzed workforce demographic data from a manufacturing company to identify gender-related disparities across its three operational regions, providing insights to support the organization’s strategic expansion into new domestic and international markets.
